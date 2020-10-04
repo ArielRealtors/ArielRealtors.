@@ -24,7 +24,7 @@ fields:
     export_format: YYYY-MM-DD
   default: now
 - type: select
-  name: author
+  name: Opeyemi_Akinkusote
   config:
     source:
       type: simple
@@ -34,7 +34,10 @@ fields:
     options:
     - Opeyemi Akinkusote
   label: Author
-  default: ''
+  default: Opeyemi Akinkusote
+  showOnly:
+    field: Opeyemi_Akinkusote
+    value: Opeyemi Akinkusote
 pages:
 - journal/how-to-invest-in-real-estate-in-your-20s-twenties.md
 - journal/macos-development-environment.md
