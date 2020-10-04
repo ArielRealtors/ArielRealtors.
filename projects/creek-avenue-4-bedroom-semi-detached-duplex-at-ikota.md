@@ -45,7 +45,7 @@ TOP NOTCH FINISHED 4 BEDROOM FULLY DETACHED DUPLEX WITH BQ IN PHASE 2 CREEK AVEN
 
 \*Cars Parking Space
 
-\*POP ceiling 
+\*POP ceiling
 
 \*Fitted kitchen
 
@@ -57,13 +57,13 @@ TOP NOTCH FINISHED 4 BEDROOM FULLY DETACHED DUPLEX WITH BQ IN PHASE 2 CREEK AVEN
 
 \*24 hours Security
 
-\*Water 
+\*Water
 
-\*Fenced and Gated compound 
+\*Fenced and Gated compound
 
-\*Fully interlocked compound 
+\*Fully interlocked compound
 
-\*Tarred and interlocked road from the expressway 
+\*Tarred and interlocked road from the expressway
 
 \*Top notch luxury finished!
 
@@ -73,9 +73,9 @@ Pay outright and Pack In Immediately
 
 Location: After Chevron Toll gate, Ikota LEKKI, Lagos
 
-Title: Governor's Consent 
+Title: Governor's Consent
 
- \~Actual Price: 70m\~ 
+\~Actual Price: 70m\~
 
 Discounted Price:* 63m Outright (not negotiable)
 
@@ -87,7 +87,7 @@ This is an Awesome Offer.
 
 Grab it now or you will miss it!
 
-For enquiries, inspection and purchase call/WhatsApp: 
+For enquiries, inspection and purchase call/WhatsApp:
 
 09039219106
 
