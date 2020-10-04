@@ -32,9 +32,9 @@ fields:
       file: data/authors/nichlas-w-andersen.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Opeyemi Akinkusote
   label: Author
-  default: Nichlas W. Andersen
+  default: ''
 pages:
 - journal/how-to-invest-in-real-estate-in-your-20s-twenties.md
 - journal/macos-development-environment.md
